@@ -14,3 +14,4 @@ const AlertComponent = ({ alerts }) => {
   );
 };
 export default AlertComponent;
+
